@@ -51,3 +51,57 @@
 
 
 
+.me11{
+background-color: red;
+height: 500px;
+width: 800px;
+margin: 30px;
+
+padding: 20px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+
+.me13{
+    background-color: blueviolet;
+    height: 200px;
+    width: 400px;
+}
+
+.me14{
+    background-color: wheat;
+    height: 300px;
+    width: 400px;
+}
+
+
+.me12{
+    background-color: grey;
+    width: 650px;
+    height: 400px;
+    padding: 20px;
+    margin: 50px;
+    float: right;
+}
+
+.you{
+    background-color: violet;
+    height: 200px;
+    width: 400px;
+    margin: 20px;
+    display: flex;
+    padding: 10px;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    float: right;
+}
+
+.one{
+    background-color: aliceblue;
+    width: 100px;
+    height: 100px;
+}
+
+
