@@ -105,3 +105,10 @@ justify-content: space-around;
 }
 
 
+.peter{
+    background-color: lightblue;
+    height: 400px;
+    width: 100%;
+    margin:auto;
+
+}
